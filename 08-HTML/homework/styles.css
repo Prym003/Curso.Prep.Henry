@@ -7,9 +7,9 @@ img {
 #thirdDiv {
     width: 500px;
     height: 600px;
-    background: red;
+    background: rgba(255, 0, 0, 0.274);
     padding: 50px;
-    border: 5px thick double rgb(9, 134, 72);
+    border: 10px solid rgb(9, 134, 72);
 }
 #spanId {
     font-size: 18px;
